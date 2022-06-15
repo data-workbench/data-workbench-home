@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.ddf95f9d.css",
-    "main.js": "/home/static/js/main.8b265988.js",
-    "static/js/599.471ba013.chunk.js": "/home/static/js/599.471ba013.chunk.js",
-    "static/media/feng1.jpeg": "/home/static/media/feng1.8d51c8e8a48135e88c09.jpeg",
-    "static/media/chunhui1.jpeg": "/home/static/media/chunhui1.67f9ad2176f68f6b3682.jpeg",
-    "static/media/workbench.png": "/home/static/media/workbench.bb165f8d4a273fac371f.png",
-    "static/media/guangming1.jpeg": "/home/static/media/guangming1.cce30f0e66fef75c06d0.jpeg",
-    "static/media/2-code-auto-generation.png": "/home/static/media/2-code-auto-generation.f1f0c1fc406d6e78349f.png",
-    "static/media/jingbai1.jpeg": "/home/static/media/jingbai1.86bd8bb608309eb72e9c.jpeg",
-    "static/media/yuan1.jpeg": "/home/static/media/yuan1.ceea398d6b27a512cce3.jpeg",
-    "static/media/3-highly-customizable.png": "/home/static/media/3-highly-customizable.03af42e8d46a43959843.png",
-    "static/media/1-e2e-dev-support.png": "/home/static/media/1-e2e-dev-support.da2134520454cf674603.png",
-    "static/media/2-3-data-quality-alert.png": "/home/static/media/2-3-data-quality-alert.5c3542d77627bdba81d4.png",
-    "static/media/3-2-customization.png": "/home/static/media/3-2-customization.a4d4da2d23b07384a319.png",
-    "static/media/2-2-data-ops.png": "/home/static/media/2-2-data-ops.08519e572a76b9bd990c.png",
-    "static/media/2-1-data-dev-analysis.png": "/home/static/media/2-1-data-dev-analysis.c60e1d63231a7742a06e.png",
-    "static/media/3-3-vip-support.png": "/home/static/media/3-3-vip-support.43e97e7508b1dbbf35ae.png",
-    "static/media/3-5-technical-support.png": "/home/static/media/3-5-technical-support.1dbd66ba442ff54ed92b.png",
-    "static/media/3-6-data-training.png": "/home/static/media/3-6-data-training.8292265cdc40caa75698.png",
-    "static/media/3-4-data-consulting.png": "/home/static/media/3-4-data-consulting.c554f969877007c1d5dc.png",
-    "static/media/3-1-product-deployment.png": "/home/static/media/3-1-product-deployment.5d4c63193961be620640.png",
-    "index.html": "/home/index.html"
+    "main.css": "/static/css/main.ddf95f9d.css",
+    "main.js": "/static/js/main.904b9a40.js",
+    "static/js/599.471ba013.chunk.js": "/static/js/599.471ba013.chunk.js",
+    "static/media/feng1.jpeg": "/static/media/feng1.8d51c8e8a48135e88c09.jpeg",
+    "static/media/chunhui1.jpeg": "/static/media/chunhui1.67f9ad2176f68f6b3682.jpeg",
+    "static/media/workbench.png": "/static/media/workbench.bb165f8d4a273fac371f.png",
+    "static/media/guangming1.jpeg": "/static/media/guangming1.cce30f0e66fef75c06d0.jpeg",
+    "static/media/2-code-auto-generation.png": "/static/media/2-code-auto-generation.f1f0c1fc406d6e78349f.png",
+    "static/media/jingbai1.jpeg": "/static/media/jingbai1.86bd8bb608309eb72e9c.jpeg",
+    "static/media/yuan1.jpeg": "/static/media/yuan1.ceea398d6b27a512cce3.jpeg",
+    "static/media/3-highly-customizable.png": "/static/media/3-highly-customizable.03af42e8d46a43959843.png",
+    "static/media/1-e2e-dev-support.png": "/static/media/1-e2e-dev-support.da2134520454cf674603.png",
+    "static/media/2-3-data-quality-alert.png": "/static/media/2-3-data-quality-alert.5c3542d77627bdba81d4.png",
+    "static/media/3-2-customization.png": "/static/media/3-2-customization.a4d4da2d23b07384a319.png",
+    "static/media/2-2-data-ops.png": "/static/media/2-2-data-ops.08519e572a76b9bd990c.png",
+    "static/media/2-1-data-dev-analysis.png": "/static/media/2-1-data-dev-analysis.c60e1d63231a7742a06e.png",
+    "static/media/3-3-vip-support.png": "/static/media/3-3-vip-support.43e97e7508b1dbbf35ae.png",
+    "static/media/3-5-technical-support.png": "/static/media/3-5-technical-support.1dbd66ba442ff54ed92b.png",
+    "static/media/3-6-data-training.png": "/static/media/3-6-data-training.8292265cdc40caa75698.png",
+    "static/media/3-4-data-consulting.png": "/static/media/3-4-data-consulting.c554f969877007c1d5dc.png",
+    "static/media/3-1-product-deployment.png": "/static/media/3-1-product-deployment.5d4c63193961be620640.png",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.ddf95f9d.css",
-    "static/js/main.8b265988.js"
+    "static/js/main.904b9a40.js"
   ]
 }
