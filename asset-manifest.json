@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ddf95f9d.css",
-    "main.js": "/static/js/main.a34ff938.js",
+    "main.js": "/static/js/main.bac9f374.js",
     "static/js/599.471ba013.chunk.js": "/static/js/599.471ba013.chunk.js",
     "static/media/feng1.jpeg": "/static/media/feng1.8d51c8e8a48135e88c09.jpeg",
     "static/media/chunhui1.jpeg": "/static/media/chunhui1.67f9ad2176f68f6b3682.jpeg",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.ddf95f9d.css",
-    "static/js/main.a34ff938.js"
+    "static/js/main.bac9f374.js"
   ]
 }
