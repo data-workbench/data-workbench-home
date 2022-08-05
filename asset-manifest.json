@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.802fcd40.css",
-    "main.js": "/static/js/main.f385f1d2.js",
+    "main.js": "/static/js/main.c8dbc606.js",
     "static/js/599.471ba013.chunk.js": "/static/js/599.471ba013.chunk.js",
     "static/media/tw_china.png": "/static/media/tw_china.51a154f6137f3950adc2.png",
     "static/media/feng1.jpeg": "/static/media/feng1.8d51c8e8a48135e88c09.jpeg",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.802fcd40.css",
-    "static/js/main.f385f1d2.js"
+    "static/js/main.c8dbc606.js"
   ]
 }
