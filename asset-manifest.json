@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.802fcd40.css",
-    "main.js": "/static/js/main.c8dbc606.js",
+    "main.css": "/static/css/main.959e6497.css",
+    "main.js": "/static/js/main.a4ab7c28.js",
     "static/js/599.471ba013.chunk.js": "/static/js/599.471ba013.chunk.js",
     "static/media/tw_china.png": "/static/media/tw_china.51a154f6137f3950adc2.png",
     "static/media/feng1.jpeg": "/static/media/feng1.8d51c8e8a48135e88c09.jpeg",
@@ -51,10 +51,11 @@
     "static/media/3-1-product-deployment.png": "/static/media/3-1-product-deployment.5d4c63193961be620640.png",
     "static/media/EasySQL.png": "/static/media/EasySQL.3d403e83d140c929560f.png",
     "static/media/news1.jpeg": "/static/media/news1.cb257c4ba4f8797426b0.jpeg",
+    "static/media/logo-transparent-5.svg": "/static/media/logo-transparent-5.595f00475f5928f584421a9022129c1c.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.802fcd40.css",
-    "static/js/main.c8dbc606.js"
+    "static/css/main.959e6497.css",
+    "static/js/main.a4ab7c28.js"
   ]
 }
