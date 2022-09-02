@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c187b01e.css",
-    "main.js": "/static/js/main.7365ec0e.js",
+    "main.css": "/static/css/main.ca376196.css",
+    "main.js": "/static/js/main.085ad4b9.js",
     "static/js/599.471ba013.chunk.js": "/static/js/599.471ba013.chunk.js",
     "static/media/tw_china.png": "/static/media/tw_china.51a154f6137f3950adc2.png",
+    "static/media/left11.jpeg": "/static/media/left11.44c3396cd4b173e01b50.jpeg",
+    "static/media/left10.jpeg": "/static/media/left10.9a289a9062d5425d12c1.jpeg",
+    "static/media/workbenchEN.png": "/static/media/workbenchEN.8566823bb57f07f938c9.png",
     "static/media/feng1.jpeg": "/static/media/feng1.8d51c8e8a48135e88c09.jpeg",
     "static/media/chunhui1.jpeg": "/static/media/chunhui1.67f9ad2176f68f6b3682.jpeg",
     "static/media/beijing.png": "/static/media/beijing.8723ec6dc9c397adafb5.png",
-    "static/media/workbench.png": "/static/media/workbench.bb165f8d4a273fac371f.png",
+    "static/media/left12.jpeg": "/static/media/left12.0b7c77640ea7237202c3.jpeg",
+    "static/media/workbenchCN.png": "/static/media/workbenchCN.bb165f8d4a273fac371f.png",
     "static/media/wuhan.png": "/static/media/wuhan.3288776d7088e3f0e0ad.png",
     "static/media/chengdu.png": "/static/media/chengdu.d6f33812baaaaf656075.png",
     "static/media/shanghai.png": "/static/media/shanghai.b7274720ac69d21545a4.png",
@@ -21,8 +25,10 @@
     "static/media/left7.png": "/static/media/left7.f91cf55e4cadbed83cf0.png",
     "static/media/left6.png": "/static/media/left6.7ef043a927a8ff5f2903.png",
     "static/media/3-highly-customizable.png": "/static/media/3-highly-customizable.03af42e8d46a43959843.png",
+    "static/media/left9.jpeg": "/static/media/left9.7b477060b71962d2a88c.jpeg",
     "static/media/left1.png": "/static/media/left1.943d8e48b33f8830d205.png",
     "static/media/milestone1.png": "/static/media/milestone1.15b88de9c94b87339883.png",
+    "static/media/left13.jpeg": "/static/media/left13.e575858d0287463dead6.jpeg",
     "static/media/1-e2e-dev-support.png": "/static/media/1-e2e-dev-support.da2134520454cf674603.png",
     "static/media/finance.png": "/static/media/finance.52bb5ed4007883f770cc.png",
     "static/media/milestone3.png": "/static/media/milestone3.1e02c84642ecf473f641.png",
@@ -41,6 +47,7 @@
     "static/media/2-1-data-dev-analysis.png": "/static/media/2-1-data-dev-analysis.c60e1d63231a7742a06e.png",
     "static/media/automobile.png": "/static/media/automobile.1fde365161d76a744b8b.png",
     "static/media/left4.png": "/static/media/left4.36c95e1cc67f1a88e07e.png",
+    "static/media/left14.jpeg": "/static/media/left14.a8d386fda5697eb82107.jpeg",
     "static/media/3-3-vip-support.png": "/static/media/3-3-vip-support.43e97e7508b1dbbf35ae.png",
     "static/media/3-5-technical-support.png": "/static/media/3-5-technical-support.1dbd66ba442ff54ed92b.png",
     "static/media/3-6-data-training.png": "/static/media/3-6-data-training.8292265cdc40caa75698.png",
@@ -55,7 +62,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.c187b01e.css",
-    "static/js/main.7365ec0e.js"
+    "static/css/main.ca376196.css",
+    "static/js/main.085ad4b9.js"
   ]
 }
